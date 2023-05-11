@@ -6,9 +6,9 @@ import (
 	"path/filepath"
 	"regexp"
 
+	swaggerFiles "github.com/bring2dip/swaggo-files/v3"
 	"github.com/labstack/echo/v4"
-	swaggerFiles "github.com/swaggo/files/v2"
-	"github.com/swaggo/swag"
+	"github.com/swaggo/swag/v2"
 )
 
 // Config stores echoSwagger configuration variables.
