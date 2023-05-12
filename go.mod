@@ -1,4 +1,4 @@
-module github.com/bring2dip/echo-swagger
+module github.com/bring2dip/echo-swagger/v2
 
 go 1.17
 
